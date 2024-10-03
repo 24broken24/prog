@@ -1,0 +1,10 @@
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\bin\Debug\35_2_inevatkin_lab1.exe.config
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\bin\Debug\35_2_inevatkin_lab1.exe
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\bin\Debug\35_2_inevatkin_lab1.pdb
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\35_2_inevatkin_lab1.csproj.AssemblyReference.cache
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\_35_2_inevatkin_lab1.Form1.resources
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\_35_2_inevatkin_lab1.Properties.Resources.resources
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\35_2_inevatkin_lab1.csproj.GenerateResource.cache
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\35_2_inevatkin_lab1.csproj.CoreCompileInputs.cache
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\35_2_inevatkin_lab1.exe
+Z:\35_2_inevatkin_lab1\35_2_inevatkin_lab1\obj\Debug\35_2_inevatkin_lab1.pdb
