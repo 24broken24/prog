@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ tour.title }}</title>
+</head>
+<body>
+    <h1>{{ tour.title }}</h1>
+    <p><strong>Описание:</strong> {{ tour.description }}</p>
+    <p><strong>Дата:</strong> {{ tour.date }}</p>
+    <p><strong>Длительность:</strong> {{ tour.duration_hours }} часов</p>
+    <p><strong>Цена:</strong> {{ tour.price }} руб.</p>
+    <p><strong>Гид:</strong> {{ tour.guide.name }}</p>
+    <p><strong>О гиде:</strong> {{ tour.guide.bio }}</p>
+
+    <h2>Записаться на экскурсию</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Записаться</button>
+    </form>
+</body>
+</html>

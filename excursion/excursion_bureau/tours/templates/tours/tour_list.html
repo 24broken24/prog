@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Экскурсионное бюро</title>
+</head>
+<body>
+    <h1>Список экскурсий</h1>
+    <ul>
+        {% for tour in tours %}
+        <li>
+            <a href="{% url 'tour_detail' tour.id %}">{{ tour.title }}</a> - {{ tour.price }} руб.
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
